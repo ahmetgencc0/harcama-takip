@@ -1,0 +1,2 @@
+Bu klasöre projeyi tarayıcıda çalıştırırken aldığın gerçek ekran görüntüsünü
+"ekran-goruntusu.png" adıyla koy. Sonra GitHub'a yükle.

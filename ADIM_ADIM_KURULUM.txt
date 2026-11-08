@@ -1,0 +1,19 @@
+HARCAMA DEFTERIM - KISA UYGULAMA TALIMATLARI
+
+1. Node.js LTS, Visual Studio Code ve GitHub Desktop kur.
+2. Bu zip dosyasını çıkart ve 'harcama-takip' klasörünü VS Code ile aç.
+3. VS Code menüsünden Terminal > New Terminal seç.
+4. Terminale 'npm install' yazıp Enter'a bas.
+5. Kurulum bittiğinde 'npm run dev' yazıp Enter'a bas.
+6. Tarayıcıdan terminalde görünen http://localhost:5173 adresini aç.
+7. Üç örnek harcama ekle. Birini silip tekrar ekleyebilirsin.
+8. Sayfayı yenile; kayıtların durduğunu kontrol et.
+9. Ekran görüntüsü al ve screenshots/ekran-goruntusu.png olarak kaydet.
+10. GitHub Desktop ile projeyi public repository olarak yayınla.
+11. Netlify'de GitHub repository'sini import ederek yayına al.
+12. GitHub linkini ve Netlify linkini teslim formuna yapıştır.
+
+Netlify build command: npm run build
+Netlify publish directory: dist
+
+NOT: node_modules ve dist klasörlerini GitHub'a yükleme; .gitignore bunları dışlar.
