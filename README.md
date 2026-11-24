@@ -65,11 +65,11 @@ Bu projede **ChatGPT** aşağıdaki aşamalarda geliştirme asistanı olarak kul
 
 ## Ekran görüntüsü
 
-Uygulamanın ekran görüntüsü teslimden önce `screenshots/ekran-goruntusu.png` yoluna eklenmelidir.
+Harcama Defterim uygulamasının kullanıcı arayüzü:
 
-<!-- Ekran görüntüsü eklendikten sonra aşağıdaki satır etkinleşir: -->
-<!-- ![Harcama Defterim ekran görüntüsü](screenshots/ekran-goruntusu.png) -->
+![Harcama Defterim ekran görüntüsü](screenshots/ekran-goruntusu.png)
 
 ## Proje bağlantıları
 
-GitHub ve canlı uygulama bağlantıları yayın yapıldıktan sonra eklenmelidir.
+- **Canlı uygulama (Netlify):** [Harcama Defterim](https://celebrated-pie-cbb4a3.netlify.app/)
+- **Kaynak kodları (GitHub):** [harcama-takip](https://github.com/ahmetgencc0/harcama-takip)
